@@ -30,7 +30,7 @@ To run the MovieApp on your local machine, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/Okariuss/Swift-MovieApp.git
+git clone https://github.com/0kariuss/Swift-MovieApp.git
 ``` 
 2. Open the project in Xcode.
 3. Build and run the project on a simulator or a physical device
